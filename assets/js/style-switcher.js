@@ -9,20 +9,7 @@
 		 */
 
 		var switcher_code =
-		'<link id="style-switcher" href="" rel="stylesheet" type="text/css">\
-		<div class="custom-panel">\
-			<div class="panel-header">\
-				<span>Style Switcher</span>\
-			</div>\
-			<div class="panel-options">\
-				<ul class="accent color-picker clearfix">\
-				</ul>\
-				<p>These color skins are included inside the template, and also you can easily create your own one!</p>\
-			</div>\
-			<div class="panel-toggle">\
-				<i class="fa fa-cog"></i>\
-			</div>\
-		</div>';
+		
 
 		/**
 		 * ----------------
